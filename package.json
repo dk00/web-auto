@@ -1,0 +1,10 @@
+{
+  "name": "web-auto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^111.0.0",
+    "webdriverio": "^8.6.3"
+  },
+  "license": "MIT"
+}
